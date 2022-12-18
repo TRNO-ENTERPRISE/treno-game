@@ -1,8 +1,11 @@
-// Example Lib
 
+#include "lib.hpp"
 #include <iostream>
 
-int hallo() {
+namespace lib {
+
+auto hallo() -> int {
     std::cout << "Hello World!";
     return 0;
 }
+} // namespace lib
