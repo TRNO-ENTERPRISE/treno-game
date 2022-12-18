@@ -1,5 +1,5 @@
 ---
-Checks:          '*,-clang-analyzer-alpha.*,-llvm-include-order,*,-clang-analyzer-alpha.*,-llvm-include-order'
+Checks:          '*,-clang-analyzer-alpha.*,-llvm-include-order,*,-clang-analyzer-alpha.*,-llvmlibc-restrict-system-libc-headers'
 HeaderFilterRegex: ''
 AnalyzeTemporaryDtors: true
 User:            perror
