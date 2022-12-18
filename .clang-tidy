@@ -1,0 +1,7 @@
+Checks: '*,
+         -llvmlibc-restrict-system-libc-headers,
+         -llvmlibc-implementation-in-namespace,
+         -llvmlibc-callee-namespace,
+         -fuchsia-trailing-return,
+         -llvm-header-guard,
+        '

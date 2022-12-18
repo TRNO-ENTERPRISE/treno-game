@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+AccessModifierOffset: 0
+AlignArrayOfStructures: Left
+AlignEscapedNewlines: Left
+AllowShortBlocksOnASingleLine: Always
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortEnumsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AlwaysBreakTemplateDeclarations: No
+
+IndentWidth: 4
+TabWidth: 4
